@@ -6,8 +6,8 @@ It is the only private company ever to return a spacecraft from low-earth orbit,
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars whereas other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage.
 
 # Project Goals:
-• Correlations between each rocket variables and successful landing rate.
-• Conditions to get the best results and ensure the best successful landing rate.
+- Correlations between each rocket variables and successful landing rate.
+- Conditions to get the best results and ensure the best successful landing rate.
 
 # Results:
 Full report can be found [here](report/DataScienceCapstoneReport.pdf).
